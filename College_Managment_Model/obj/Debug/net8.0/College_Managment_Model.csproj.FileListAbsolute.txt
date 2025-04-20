@@ -1,0 +1,12 @@
+D:\Project\College_Managment_System_Api\College_Managment_pro\College_Managment_Model\bin\Debug\net8.0\College_Managment_Model.deps.json
+D:\Project\College_Managment_System_Api\College_Managment_pro\College_Managment_Model\bin\Debug\net8.0\College_Managment_Model.dll
+D:\Project\College_Managment_System_Api\College_Managment_pro\College_Managment_Model\bin\Debug\net8.0\College_Managment_Model.pdb
+D:\Project\College_Managment_System_Api\College_Managment_pro\College_Managment_Model\obj\Debug\net8.0\College_Managment_Model.csproj.AssemblyReference.cache
+D:\Project\College_Managment_System_Api\College_Managment_pro\College_Managment_Model\obj\Debug\net8.0\College_Managment_Model.GeneratedMSBuildEditorConfig.editorconfig
+D:\Project\College_Managment_System_Api\College_Managment_pro\College_Managment_Model\obj\Debug\net8.0\College_Managment_Model.AssemblyInfoInputs.cache
+D:\Project\College_Managment_System_Api\College_Managment_pro\College_Managment_Model\obj\Debug\net8.0\College_Managment_Model.AssemblyInfo.cs
+D:\Project\College_Managment_System_Api\College_Managment_pro\College_Managment_Model\obj\Debug\net8.0\College_Managment_Model.csproj.CoreCompileInputs.cache
+D:\Project\College_Managment_System_Api\College_Managment_pro\College_Managment_Model\obj\Debug\net8.0\College_Managment_Model.dll
+D:\Project\College_Managment_System_Api\College_Managment_pro\College_Managment_Model\obj\Debug\net8.0\refint\College_Managment_Model.dll
+D:\Project\College_Managment_System_Api\College_Managment_pro\College_Managment_Model\obj\Debug\net8.0\College_Managment_Model.pdb
+D:\Project\College_Managment_System_Api\College_Managment_pro\College_Managment_Model\obj\Debug\net8.0\ref\College_Managment_Model.dll
